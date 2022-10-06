@@ -1,5 +1,5 @@
 ### :sparkling_heart: :bug: :cherry_blossom: :ribbon: :cherries: :sparkles: :leaves: :cloud: :dango: 
-
+🐱🦖🌼🐣✨🥙🐖🐢🌯🌸🐸🐝☁️ 🍑🫐🧸🎀💖🦭🧋🐮🦋🍄🌈🐐🐭🌊🧇🌮🌻🥤🐚🦦🍜🐛🦐🍕
 <!--
 **belennazareth/belennazareth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
