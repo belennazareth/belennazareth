@@ -2,9 +2,11 @@
 
 # [Blog personal](https://ottershell.vercel.app/) 🦦✨
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belennazareth&layout=compact&theme=buefy)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=belennazareth&show_icons=true&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belennazareth&layout=compact&theme=buefy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=belennazareth&theme=buefy&border_radius=2.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **belennazareth/belennazareth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
