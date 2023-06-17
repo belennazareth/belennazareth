@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belennazareth&layout=compact&theme=buefy)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=belennazareth&show_icons=true&theme=buefy)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=belennazareth&show_icons=true&theme=buefy) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=belennazareth&theme=buefy&border_radius=2.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
